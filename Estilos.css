@@ -32,9 +32,14 @@ h2{
 }
 
 .botones a{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
     padding-top: 10px;
     color: white;
     font-size: 20px;
+    border-radius: 6px;
+    border: 1px solid white
 }
 
 
